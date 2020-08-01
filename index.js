@@ -11,7 +11,7 @@ const steps = [
         name: "The national unemployment rate",
         properties: {
           age: "All ages",
-          gender: "All genders",
+          gender: "All genders",  
           race: "All races",
         },
         valueYOffset: {
