@@ -3,7 +3,7 @@ const steps = [
   {
     step: "National Unemployment",
     explainer: [
-      "During the past few months, the coronavirus has brought economic recession and has sent the unemployment rate soaring in US.",
+      "During the past few months, the coronavirus has brought economic recession and has sent the unemployment rate soaring in the US.",
       "You can click the buttons above the chart to see how the impact has affected different demographics.",
     ],
     annotations: [
@@ -153,7 +153,7 @@ const steps = [
     annotations: [],
     showFilter: true,
     showTooltip: true,
-  },
+  },  
 ];
 const stepButton = d3
   .select(".stepper")
