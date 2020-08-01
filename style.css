@@ -1,0 +1,162 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #4a4a4a;
+  line-height: 1.5;
+  font-size: 14px;
+}
+
+button {
+  border-radius: 2px;
+  background-color: #fff;
+  border: 1px solid #dbdbdb;
+  color: #363636;
+  cursor: pointer;
+  padding: 0.25em 0.5em;
+  text-align: center;
+  white-space: nowrap;
+}
+
+button.active {
+  background-color: #363636;
+  border-color: transparent;
+  color: #fff;
+}
+
+button:hover {
+  border-color: #b5b5b5;
+}
+
+hr {
+  background-color: #dbdbdb;
+  border: none;
+  display: block;
+  height: 1px;
+  margin: 1em 0;
+}
+
+.wrapper {
+  width: 960px;
+  margin: auto;
+}
+
+.title {
+  color: #363636;
+  font-size: 2em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.stepper {
+  text-align: center;
+}
+
+.stepper button:not(:first-child) {
+  margin-left: 0.5em;
+}
+
+.container-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.side-container {
+  width: calc(25% - 1rem);
+}
+
+.main-container {
+  width: 75%;
+  position: relative;
+}
+
+.footer {
+  color: #b5b5b5;
+  font-size: 12px;
+  text-align: end;
+}
+
+/* Annotation */
+.annotation {
+  position: absolute;
+  left: 0;
+  top: 0;
+  max-width: 210px;
+  padding: 0.25em 0.5em;
+  line-height: 1.1;
+  border: 1px solid transparent;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.annotation-0 {
+  color: #7f3c8d;
+  border-color: #7f3c8d;
+}
+
+.annotation-1 {
+  color: #11a579;
+  border-color: #11a579;
+}
+
+.annotation-2 {
+  color: #3969ac;
+  border-color: #3969ac;
+}
+
+/* Tooltip */
+.tooltip {
+  position: absolute;
+  left: 0;
+  top: 0;
+  max-width: 210px;
+  padding: 0.25em 0.5em;
+  line-height: 1.1;
+  border: 1px solid #363636;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 0.8);
+  pointer-events: none;
+}
+
+/* Chart */
+text {
+  font-size: 12px;
+  fill: currentColor;
+}
+
+.axis line,
+.axis path {
+  stroke: #dbdbdb;
+}
+
+.line {
+  mix-blend-mode: multiply;
+  stroke: #dbdbdb;
+}
+
+.annotation-line {
+  stroke-width: 3;
+}
+
+.tooltip-line {
+  stroke-width: 3;
+  stroke: #363636;
+}
+
+/* Filters */
+.filters {
+  display: flex;
+  justify-content: center;
+}
+
+.filters .filter-group:not(:first-child) {
+  margin-left: 0.5em;
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.filter-group .filter-button:not(:first-child) {
+  margin-top: 0.1em;
+}

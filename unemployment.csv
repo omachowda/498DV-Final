@@ -1,0 +1,52 @@
+﻿Series ID,Age,Race,Gender,Jan-20,Feb-20,Mar-20,Apr-20,May-20,Jun-20
+LNU04000000,All ages,All races,All genders,4,3.8,4.5,14.4,13,11.2
+LNU04024887,16 to 24 years,All races,All genders,9.1,8,10,26.9,25.3,21.4
+LNU04000060,25 to 54 years,All races,All genders,3.4,3.3,3.9,12.6,11.2,9.7
+LNU04024230,55 years and over,All races,All genders,2.9,2.8,3.5,13.4,11.5,9.7
+LNU04000003,All ages,White,All genders,3.5,3.4,4.1,13.8,12.1,10.2
+LNU04024893,16 to 24 years,White,All genders,7.8,6.7,8.6,25.8,23.6,19.6
+LNU04000063,25 to 54 years,White,All genders,2.9,2.9,3.5,12,10.3,8.7
+LNU04024897,55 years and over,White,All genders,2.8,2.9,3.3,13,10.9,9
+LNU04000006,All ages,Black or African American,All genders,6.6,6.3,7,16.4,16.6,15.5
+LNU04024931,16 to 24 years,Black or African American,All genders,16,14,17.3,28.3,30.2,27.7
+LNU04000066,25 to 54 years,Black or African American,All genders,5.8,5.6,5.7,14.9,14.7,13.9
+LNU04024911,55 years and over,Black or African American,All genders,2.9,2.9,4.7,14,13.8,12.1
+LNU04032183,All ages,Asian,All genders,3.2,2.5,4.1,14.3,14.8,13.9
+LNU04069594,16 to 24 years,Asian,All genders,5.9,5.5,7.2,26.5,33,28.4
+LNU04032249,25 to 54 years,Asian,All genders,3,2.5,3.9,12,12.3,11.5
+LNU04034986,55 years and over,Asian,All genders,2.6,1.2,3.3,18.8,16.8,16.2
+LNU04000001,All ages,All races,Men,4.2,4.1,4.8,13.3,11.9,10.5
+LNU04024885,16 to 24 years,All races,Men,9.6,8.5,10.8,24,24.2,20.9
+LNU04000061,25 to 54 years,All races,Men,3.6,3.6,4,11.9,10.3,9.2
+LNU04024231,55 years and over,All races,Men,3.1,3.2,3.8,12,9.9,8.7
+LNU04000004,All ages,White,Men,3.8,3.7,4.3,12.6,10.9,9.3
+LNU04024891,16 to 24 years,White,Men,8.6,7,9.4,22.6,22.1,18.4
+LNU04000064,25 to 54 years,White,Men,3.2,3.2,3.8,11.2,9.5,8.1
+LNU04000007,All ages,Black or African American,Men,6.9,7.3,8.1,16.3,15.9,16.4
+LNU04024930,16 to 24 years,Black or African American,Men,14.9,15.6,20.3,25.3,28.5,29.3
+LNU04000067,25 to 54 years,Black or African American,Men,6.3,6.7,6.2,15.5,14.5,14.5
+LNU04032301,All ages,Asian,Men,2.7,2.1,3.8,12.9,13.2,12.9
+LNU04079032,16 to 24 years,Asian,Men,4.4,5.5,6.2,27.7,36.9,34.1
+LNU04032330,25 to 54 years,Asian,Men,2.8,1.9,3.5,10.6,9.8,10.2
+LNU04032336,55 years and over,Asian,Men,1.7,1.7,3.9,17,17.1,13.5
+LNU04000002,All ages,All races,Women,3.7,3.4,4.2,15.7,14.3,12
+LNU04024886,16 to 24 years,All races,Women,8.6,7.5,9.1,29.8,26.5,22
+LNU04000062,25 to 54 years,All races,Women,3.1,3,3.6,13.4,12.2,10.3
+LNU04024232,55 years and over,All races,Women,2.6,2.3,3.1,15,13.3,10.8
+LNU04000005,All ages,White,Women,3.1,3,3.7,15.3,13.4,11.3
+LNU04024892,16 to 24 years,White,Women,6.9,6.3,7.8,29.3,25.2,20.8
+LNU04000065,25 to 54 years,White,Women,2.6,2.6,3.1,12.9,11.3,9.5
+LNU04000008,All ages,Black or African American,Women,6.4,5.4,6,16.4,17.2,14.6
+LNU04024905,16 to 24 years,Black or African American,Women,16.9,12.6,14.5,30.9,31.7,26.1
+LNU04000068,25 to 54 years,Black or African American,Women,5.4,4.7,5.2,14.3,14.9,13.3
+LNU04032342,All ages,Asian,Women,3.8,3,4.4,15.9,16.6,15
+LNU04079033,16 to 24 years,Asian,Women,7.4,5.6,8,25.6,29.4,22.5
+LNU04032371,25 to 54 years,Asian,Women,3.4,3.3,4.5,13.5,15.1,13
+LNU04032377,55 years and over,Asian,Women,3.7,0.7,2.6,21,16.4,19.3
+LNU04000009,All ages,Hispanic or Latino,All genders,5.1,4.8,6.3,18.5,17.2,14.5
+LNU04069595,16 to 24 years,Hispanic or Latino,All genders,9.1,8.7,12.5,28.8,29.6,24.5
+LNU04000069,25 to 54 years,Hispanic or Latino,All genders,4.2,3.9,5.1,16.4,14.9,12.5
+LNU04000010,All ages,Hispanic or Latino,Men,4.9,4.3,6.0,16.9,15.5,13.3
+LNU04000070,25 to 54 years,Hispanic or Latino,Men,3.9,3.4,4.7,15.6,13.5,11.0
+LNU04000011,All ages,Hispanic or Latino,Women,5.3,5.5,6.6,20.5,19.5,16.1
+LNU04000071,25 to 54 years,Hispanic or Latino,Women,4.6,4.6,5.6,17.6,16.8,14.5
