@@ -3,8 +3,8 @@ const steps = [
   {
     step: "National Unemployment",
     explainer: [
-      "During the past few months, the coronavirus has brought back economic recession and has sent the unemployment rate soaring in US.",
-      "You can click the buttons above the chart to see how the impact has affected different demographics drastically differently.",
+      "During the past few months, the coronavirus has brought economic recession and has sent the unemployment rate soaring in US.",
+      "You can click the buttons above the chart to see how the impact has affected different demographics.",
     ],
     annotations: [
       {
@@ -147,8 +147,8 @@ const steps = [
     step: "Explore on Your Own",
     explainer: [
       "Explore how the unemployment rates of different demographics are affected differently.",
-      "Hover over a line in the chart to see which demographic it represents.",
-      "Toggle filters below the chart to show only a subset of the demographics.",
+      "Hover over a line in the chart to see which combination of demographics it represents.",
+      "Toggle filters below the chart to show only a subset.",
     ],
     annotations: [],
     showFilter: true,
